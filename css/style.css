@@ -1,0 +1,59 @@
+header{
+    padding: 50px;
+    background-color: black;
+    color: antiquewhite;
+    height: 100px;
+}
+nav ul li{
+    list-style: none;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    bottom: 0;
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+}
+h3{
+    text-align: center;
+    font-style: bold;
+    
+}
+#categories{
+    text-align: center;
+    margin-top: 100px;
+}
+h2{
+    clear: both;
+}
+#Products{
+    width: 25%;
+    float: left;
+
+}
+img{
+    width: 50%;
+}
+#communicator{
+    width: 50%;
+    float: left;
+}
+#subscribe{
+    text-align: center;
+}
+
+#Login{
+    background-color: black;
+    color: antiquewhite;
+    float: right;
+    border-style: none;
+}
+#Register{
+    background-color: orangered;
+    color: antiquewhite;
+    float: right;
+    border-style: none;
+}
